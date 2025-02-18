@@ -6,7 +6,7 @@ authors = ["Your Name"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-pytest = "^6.2.5"
+pytest = "^8.3.4"
 requests = "^2.26.0"
 
 [build-system]
